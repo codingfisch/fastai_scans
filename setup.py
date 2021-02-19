@@ -6,5 +6,5 @@ setup(name='fastai_scans',
       url = "https://github.com/renato145/fastai_scans",
       author = "Renato Hermoza Aragonés",
       packages = find_packages(),
-      install_requires = ["fastai==1.0.61", "seaborn", "nibabel", "h5py", "ipyvolume"],
+      install_requires = ["fastai==1.0.61", "seaborn", "nibabel", "h5py", "ipyvolume", "scikit-learn"],
       )
